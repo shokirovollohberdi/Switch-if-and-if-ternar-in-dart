@@ -62,5 +62,9 @@ bool a = 10==9;
       break;
   }
   */
+
+  var a = 18;
+  var b = "String";
+    print(a.toString()+" "+b);
   
 }
